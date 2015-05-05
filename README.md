@@ -1,6 +1,6 @@
 # Activiti BPM engine customization #
 
-Customize Activiti BPM engine to match Kaltura SaaS and support multiple data-centers.
+Customize Activiti BPM engine to match Kaltura multiple data-centers architecture.
 
 ## Deployment instructions ##
 
